@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\CircleApp-174e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|solutionrelative:circleapp.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\circleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\circleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|solutionrelative:circleapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\views\\shared\\navigation\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\views\\shared\\navigation\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp\\views\\shared\\home\\_post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917753C7-C1D0-4A70-9506-E8CE5485651D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\views\\shared\\home\\_post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp.data\\migrations\\20260218194147_appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|solutionrelative:circleapp.data\\migrations\\20260218194147_appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|c:\\users\\user\\downloads\\circleapp-174e\\circleapp.data\\migrations\\20260220105149_postmedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872A3653-B815-424A-9D68-14019721D77B}|CircleApp.Data\\CircleApp.Data.csproj|solutionrelative:circleapp.data\\migrations\\20260220105149_postmedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "CircleApp.Data\\Helpers\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeToolTip": "CircleApp.Data\\Helpers\\DbInitializer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:33:53.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CircleApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CircleApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:08:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "CircleApp\\Views\\Authentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "CircleApp\\Views\\Authentication\\Login.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T09:56:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260220105149_PostMeDb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Migrations\\20260220105149_PostMeDb.cs",
+              "RelativeDocumentMoniker": "CircleApp.Data\\Migrations\\20260220105149_PostMeDb.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Migrations\\20260220105149_PostMeDb.cs",
+              "RelativeToolTip": "CircleApp.Data\\Migrations\\20260220105149_PostMeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:51:51.216Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\CircleApp.csproj",
+              "RelativeDocumentMoniker": "CircleApp\\CircleApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\CircleApp.csproj",
+              "RelativeToolTip": "CircleApp\\CircleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T15:54:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "CircleApp\\Views\\Authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "CircleApp\\Views\\Authentication\\Register.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T09:57:54.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CircleApp.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\AppDbContext.cs",
+              "RelativeToolTip": "CircleApp.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:42:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260218194147_Appdb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Migrations\\20260218194147_Appdb.cs",
+              "RelativeDocumentMoniker": "CircleApp.Data\\Migrations\\20260218194147_Appdb.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp.Data\\Migrations\\20260218194147_Appdb.cs",
+              "RelativeToolTip": "CircleApp.Data\\Migrations\\20260218194147_Appdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:41:48.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CircleApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CircleApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T09:09:00.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Post.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\Home\\_Post.cshtml",
+              "RelativeDocumentMoniker": "CircleApp\\Views\\Shared\\Home\\_Post.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\Home\\_Post.cshtml",
+              "RelativeToolTip": "CircleApp\\Views\\Shared\\Home\\_Post.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T09:18:35.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_TopBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "RelativeDocumentMoniker": "CircleApp\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\CircleApp-174e\\CircleApp\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "RelativeToolTip": "CircleApp\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T09:19:40.407Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
